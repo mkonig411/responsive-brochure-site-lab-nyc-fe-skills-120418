@@ -43,7 +43,7 @@ img {
 }
 
 @media all and (max-width:1000px) {
-  .flex-nav ul {
+  .flex-nav container div {
     flex-wrap: wrap;
   }
 .flex-nav ul li {
