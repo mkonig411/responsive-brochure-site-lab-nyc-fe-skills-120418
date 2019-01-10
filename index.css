@@ -43,8 +43,12 @@ img {
 
 @media all and (max-width:1000px) {
   .flex-nav container div {
-    font-size: 6px;}}
+    font-size: 6px;}
+  
+}
 
 @media all and (max-width:500px) {
     .flex-nav container div {
-      font-size: 3px; }}
+      font-size: 3px; }
+  
+}
