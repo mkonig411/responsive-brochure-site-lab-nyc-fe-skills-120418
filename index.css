@@ -41,9 +41,9 @@ img {
   width: 30%;
 }
 
-/*@media all and (max-width:1000px) {
+@media all and (max-width:1000px) {
  .container div {
-    font-size: 18px;}
+    font-size: 50px;}
    
 }
 
