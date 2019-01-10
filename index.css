@@ -41,27 +41,13 @@ img {
   width: 30%;
 
 }
-
+{
 @media all and (max-width:1000px) {
   .flex-nav container div {
-    flex-wrap: wrap;
-  }
-.flex-nav ul li {
-  width: 50%;
-}
-
-.flex-nav ul .social {
-  width: 25%;
-}
+    font-size: 6px;
+  }}}
+{
 
 @media all and (max-width:500px) {
-    .flex-nav ul {
-    flex-wrap: wrap;
-  }
-.flex-nav ul li {
-  width: 100%;
-}
-
-.flex-nav ul .social {
-  width: 25%;
-}
+    .flex-nav container div {
+      font-size: 5px; }}}
