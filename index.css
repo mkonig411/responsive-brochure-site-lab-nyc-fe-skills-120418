@@ -39,7 +39,6 @@ html {
 
 img {
   width: 30%;
-
 }
 
 @media all and (max-width:1000px) {
@@ -48,4 +47,4 @@ img {
 
 @media all and (max-width:500px) {
     .flex-nav container div {
-      font-size: 35px; }}
+      font-size: 3px; }}
