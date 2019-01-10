@@ -48,6 +48,6 @@ img {
   }}}
 {
 
-@media all and (max-width:500px) {
+@media all and (max-width:200px) {
     .flex-nav container div {
       font-size: 2px; }}}
