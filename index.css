@@ -44,10 +44,7 @@ img {
 @media all and (max-width:1000px) {
  .container div {
     font-size: 8px;}
-    img {
-      
-    }
-  
+   
 }
 
 @media all and (max-width:500px) {
