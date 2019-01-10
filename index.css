@@ -52,6 +52,6 @@ img {
 
 @media all and (max-width:500px) {
     .container div {
-      font-size: 3px; }
+      font-size: 5px; }
   
 }
